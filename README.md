@@ -2,7 +2,7 @@
 
 # Overview
 
-This is the software script for implementing the ROI method published in XXX, as well as reproducing the results described in the manuscript. This software contains four major components:
+This is the software script for implementing the ROI method published in PLOS Digital Health, as well as reproducing the results described in the paper. This software contains four major components:
 
 - The data preprocessing interface for TCGA dataset.
 - The performance of time to event prediction from four different models: CPH, CPH\_ROI, CPH\_DL, and CPH\_DL\_ROI.
@@ -40,7 +40,7 @@ The system relies on the following software, reagent, or resources.
 | --- | --- | --- |
 | TCGA | Genomic Data Commons data portal | [https://portal.gdc.cancer.gov/](https://portal.gdc.cancer.gov/) |
 | TCGA Cancer Types | Broad Institute | [https://gdac.broadinstitute.org/](https://gdac.broadinstitute.org/) |
-| American Cancer Types | Cancer Treatment Centers of America | [https://www.cancercenter.com/cancer-types](https://www.cancercenter.com/cancer-types) |
+| More Information About Cancer Types  | Cancer Treatment Centers of America | [https://www.cancercenter.com/cancer-types](https://www.cancercenter.com/cancer-types) |
 | TCGA Protein | Genomic Data Commons data portal | [https://portal.gdc.cancer.gov/](https://portal.gdc.cancer.gov/) |
 | TCGA Clinical | Genomic Data Commons data portal | [https://portal.gdc.cancer.gov/](https://portal.gdc.cancer.gov/) |
 | TCGA Clinical Endpoints | TCGA Pan-Cancer Clinical Data Resource | [https://www.sciencedirect.com/science/article/pii/S0092867418302290](https://www.sciencedirect.com/science/article/pii/S0092867418302290) |
